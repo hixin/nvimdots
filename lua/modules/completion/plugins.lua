@@ -12,6 +12,7 @@ completion["creativenull/efmls-configs-nvim"] = {
 }
 completion["williamboman/nvim-lsp-installer"] = {
 	opt = false,
+	after = "nvim-lspconfig",
 }
 completion["kevinhwang91/nvim-bqf"] = {
 	opt = true,
